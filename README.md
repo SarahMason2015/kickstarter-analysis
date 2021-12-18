@@ -8,7 +8,7 @@
 
 <p>Analyzing the data, knowing Louise wants to produce a play there are two main variables, Launch Date and Fundraising Goals. As you’re able to see in the first example, the optimal time to launch a campaign is in May with the lowest month in December. Louise will be most successful launching her campaigns in the warmer months, more specifically April through August. 
 
-  ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.PNG)
+  ![Resources](Theater_Outcomes_vs_Launch.PNG)
 <h3>Analysis of Outcomes based on Goals</h3>
 
   <p>Will Louise’s goal of $10,000.00 be enough? According to this, it’s going to be TBD. She’s in the middle of the pack. This is also very helpful because if Louise wanted to raise her goal, she now knows within what parameters she should stay within. 
