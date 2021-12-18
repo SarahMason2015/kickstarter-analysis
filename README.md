@@ -3,24 +3,19 @@
 <strong><h3>Purpose</h3></strong>
 <p>Louise, a playwright, is looking to us analyze information gathered to determine how she will navigate her dream of being able to successfully fund her play _Fever_.  With an estimated budget of over $10,000.00, she wants to ensure that the necessary information is available to allow her to have a successful fundraising campaign.  
 <p>With over 4000 campaigns analyzed we can see globally how different categories faired during their campaigns. Were they Successful, did they fail, or did they just not make the cut? What financial goals did they set; did they achieve them? With so many questions, we have relied on data to make an educated prediction on how much, when, and if Louise’s play _Fever_ has potential for success. 
-
 <h3>Analysis and Challenges</h3>
 <h4>Analysis of Outcomes based on Launch Date</h4>
-
-<p>Analyzing the data, knowing Louise wants to produce a play there are two main variables, Launch Date and Fundraising Goals. As you’re able to see in the first example, the optimal time to launch a campaign is in May with the lowest month in December. Louise will be most successful launching her campaigns in the warmer months, more specifically April through August. 
-
+<p>Analyzing the data, knowing Louise wants to produce a play there are two main variables, Launch Date and Fundraising Goals. As you’re able to see in the first example, the optimal time to launch a campaign is in May with the lowest month in December. Louise will be most successful launching her campaigns in the warmer months, more specifically April through August.
+ 
  ![Launch](https://github.com/SarahMason2015/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-  
+ 
 <h4>Analysis of Outcomes based on Goals</h4>
-
-  <p>Will Louise’s goal of $10,000.00 be enough? According to this, it’s going to be TBD. She’s in the middle of the pack. This is also very helpful because if Louise wanted to raise her goal, she now knows within what parameters she should stay within. 
-
-  ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
-
+<p>Louise’s goal is just over $10,000.00. According to the data, visualized below, she’s in the middle of the pack. If she needs to adjust her goal, this information will allow her to see where the line is. 
+ 
+ ![Outcomes_vs_Goals](https://github.com/SarahMason2015/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 <h3>Challenges and Difficulties Encountered</h3></strong>
 There were no challenges in helping Louise. She knew what she wanted, how much she wanted to spend, and the data told us the rest. This is an ideal data to help her get her feet off the ground and potentially help her with her future endeavors.
 <strong><h3>Results</h3></strong>
-
 <p>Looking at this dataset there in an incredible amount of information, once we sort, filter, extract, and analyze here are some of the conclusions that have been made.
 
   * Think warm. According to the data, people tend to give more in warmer weather. Specifically, April through August.
