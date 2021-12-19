@@ -9,7 +9,7 @@
  
 ![Launch](https://github.com/SarahMason2015/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
  <h4>Analysis of Outcomes based on Goals</h4>
-<p>Louise’s goal is just over $10,000.00. According to the data, visualized below, she’s in the middle of the pack. If she needs to adjust her goal, this information will allow her to see where the line is. 
+<p>According to the data, visualized below, Louise's goal of just over $10,000.0.0 puts herself in the middle of the pack. Since Louise has pre-set her goal she has room to adjust to allow for unnecessary expenses, or shortcommings. 
  
 ![Outcomes and Goals](https://github.com/SarahMason2015/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 <h3>Challenges and Difficulties Encountered</h3></strong>
@@ -21,7 +21,8 @@ There were no challenges in helping Louise. She knew what she wanted, how much s
 
   * Louise, as stated above, is in the middle of the pack with her funding expectations. She has room to increase her budget but must do so carefully. Too little and she could risk quality, too much and she might not meet her goal. 
 
-  * There are some limitations to this dataset. The one most prevalent is that the data is a bit out of date. I also believe that diving into different parts of the US would be helpful. The datasets could be more specific to the area of the country in which a category might have more success. 
+  * There are some limitations to this dataset. The one most prevalent is that the data is a bit out of date. I also believe that diving into different parts of the US would be helpful. The datasets could be more specific to the area of the country in which a category might have more success. ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95657455/146660131-6fb4e68a-44ae-4da4-a81c-c819971b3da4.png)
+
 
 
 
